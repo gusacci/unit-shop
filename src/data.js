@@ -36,3 +36,38 @@ export const categories = [
     title: "Tops",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/ae/06/ae06d8afdb0b40cdef5bdd27e4b1d779c78777bf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 2,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/4a/85/4a8566aa23957944a5b979a648dc3db1476dc3e4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 3,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/c0/55/c05508e06457dc97af7b44f49c17de7e14c9cfb5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 4,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/48/8c/488c29e99ff80af8970f4c836e49f4d7aa7e5055.jpg],origin[dam],category[ladies_blazers],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 5,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/4a/29/4a29e137d8240b9d5130db666735089499e6c49d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 6,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/87/b4/87b46aaa8bb2287c27373fff1afbf3e4fa697c75.jpg],origin[dam],category[ladies_jacketscoats_jackets],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 7,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/92/bb/92bb6f37a962d70e1c2636e296ba219ffb02ec0d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+  {
+    id: 8,
+    img: "https://lp2.hm.com/hmgoepprod?set=source[/2f/0a/2f0a267f24942328420196bdd29efe8c516b1cd2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+  },
+];
